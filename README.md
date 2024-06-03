@@ -12,7 +12,6 @@ The data analysis done on following perspectives
 * Employement
 * Social Environment
 * Mental Health
-* 
 
 ## Note
 Most records are redundant and the participants has refused to provide any critical information regarding the mental health. Even though the PII(Personally Identifiyable information) has been removed from the records, the information related to geographical information has been changed.
